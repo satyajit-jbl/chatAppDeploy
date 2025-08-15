@@ -58,7 +58,7 @@ I built Chatya to deepen my understanding of full-stack development and real-tim
 ### GIF Showcase
 Here’s a quick visual overview of Chatya in action:  
 
-![Chatya Demo GIF](link-to-your-demo-gif.gif)
+![Chatya Demo GIF](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/chatApp.gif)
 
 ### Screenshots
 **Login & Registration**  
@@ -73,7 +73,6 @@ Here’s a quick visual overview of Chatya in action:
 **Color theme interface**  
 ![Online Status](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/theme.PNG)  
 
-*(Replace placeholder links with your actual GIF and screenshots hosted on GitHub or a free image hosting service.)*
 
 ---
 
