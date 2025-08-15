@@ -125,6 +125,8 @@ I am constantly looking to improve Chatya’s user experience. Planned enhanceme
 - **Search & Filters**: Quickly find messages or conversations.
 - **Performance Optimization**: Improve speed and memory usage for long conversations.
 - **Accessibility Improvements**: Enhance navigation, screen reader support, and contrast for all users.
+- **Message Actions**: Add the ability to delete/unsend messages, forward messages to other users, and edit sent messages.
+
 
 
 ## Setup Instructions
