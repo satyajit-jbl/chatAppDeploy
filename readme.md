@@ -65,7 +65,7 @@ Here’s a quick visual overview of Chatya in action:
 ![Login Page](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/login.PNG)  
 
 **Sending Image**  
-![Login Page](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/login.PNG)  
+![Login Page](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/image.PNG)  
 
 **Real-Time Chat Interface with Online Status**  
 ![Chat Interface](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/Online.PNG)  
