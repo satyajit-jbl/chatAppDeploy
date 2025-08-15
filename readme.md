@@ -56,13 +56,13 @@ Here’s a quick visual overview of Chatya in action:
 
 ### Screenshots
 **Login & Registration**  
-![Login Page](link-to-your-login-screenshot.png)  
+![Login Page](images/login.png)  
 
-**Real-Time Chat Interface**  
-![Chat Interface](link-to-your-chat-screenshot.png)  
+**Real-Time Chat Interface with Online Status**  
+![Chat Interface](images/Online.png)  
 
-**Online Status & User Presence**  
-![Online Status](link-to-your-online-status-screenshot.png)  
+**Color theme interface**  
+![Online Status](images/theme.png)  
 
 *(Replace placeholder links with your actual GIF and screenshots hosted on GitHub or a free image hosting service.)*
 
