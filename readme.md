@@ -56,10 +56,10 @@ Here’s a quick visual overview of Chatya in action:
 
 ### Screenshots
 **Login & Registration**  
-![Login Page](images/login.png)  
+![Login Page](./images/login.png)  
 
 **Real-Time Chat Interface with Online Status**  
-![Chat Interface](images/Online.png)  
+![Chat Interface](/images/Online.png)  
 
 **Color theme interface**  
 ![Online Status](images/theme.png)  
