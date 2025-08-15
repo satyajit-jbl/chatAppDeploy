@@ -112,6 +112,21 @@ This project strengthened my full-stack skills and taught me how to build scalab
 
 ---
 
+## Future Development / Roadmap
+
+I am constantly looking to improve Chatya’s user experience. Planned enhancements include:
+
+
+- **Read Receipts & Typing Indicators**: Real-time feedback on message delivery and activity.
+- **Group Chats & Channels**: Support for multiple users in the same conversation.
+- **Push Notifications**: Alerts for new messages even when offline or in background.
+- **Media Sharing Enhancements**: Support videos, GIFs, and file attachments, although currently the app can only send small-size images.
+- **Emoji & Reactions**: React to messages with emojis to make conversations fun.
+- **Search & Filters**: Quickly find messages or conversations.
+- **Performance Optimization**: Improve speed and memory usage for long conversations.
+- **Accessibility Improvements**: Enhance navigation, screen reader support, and contrast for all users.
+
+
 ## Setup Instructions
 
 1. Clone the repository:  
