@@ -1,10 +1,16 @@
-# Chatya — Real-Time Chat Application
+# Chatya (Real-Time Chat Application)
 
 **Chatya** is a modern, responsive real-time chat application built with the MERN stack. It leverages Socket.io for instant messaging, provides secure authentication, and includes online presence indicators. Styled with TailwindCSS and Daisy UI, Chatya delivers a smooth and engaging user experience.  
 
 **Live Demo:** [https://chatappdeploy-tyld.onrender.com/](https://chatappdeploy-tyld.onrender.com/)
 
 ---
+### Test Login Credentials
+You can try the app using the following account:
+
+- **Email:** test@example.com
+- **Password:** Test@1234
+
 
 ## About the Project
 
@@ -56,6 +62,9 @@ Here’s a quick visual overview of Chatya in action:
 
 ### Screenshots
 **Login & Registration**  
+![Login Page](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/login.PNG)  
+
+**Sending Image**  
 ![Login Page](https://github.com/satyajit-jbl/chatAppDeploy/blob/main/images/login.PNG)  
 
 **Real-Time Chat Interface with Online Status**  

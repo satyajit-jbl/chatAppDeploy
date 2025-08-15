@@ -4,6 +4,13 @@ import AuthImagePattern from "../components/AuthImagePattern";
 import { Link } from "react-router-dom";
 import { Eye, EyeOff, Loader2, Lock, Mail, MessageSquare } from "lucide-react";
 
+// Demo user login start
+const DEMO_USER = {
+  email: "test@example.com",
+  password: "Test@1234",
+};
+// Demo user login end
+
 const LoginPage = () => {
   const [showPassword, setShowPassword] = useState(false);
   const [formData, setFormData] = useState({
@@ -95,6 +102,24 @@ const LoginPage = () => {
                 "Sign in"
               )}
             </button>
+            {/* demologin start */}
+            <button
+              type="button"
+              className="btn btn-secondary w-full mt-2"
+              onClick={() => login(DEMO_USER)}
+              disabled={isLoggingIn}
+            >
+              {isLoggingIn ? (
+                <>
+                  <Loader2 className="h-5 w-5 animate-spin" />
+                  Loading...
+                </>
+              ) : (
+                "Login as Demo User"
+              )}
+            </button>
+
+            {/* demologin end */}
           </form>
 
           <div className="text-center">
